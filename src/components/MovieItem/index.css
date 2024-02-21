@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  margin-left: 10px;
+}
+.item-img {
+  width: 270px;
+  height: 120px;
+  border-radius: 10px;
+}
+.close-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.popup-content {
+  border-radius: 10px;
+  padding-left: 30px;
+  width: 710px;
+  height: 390px;
+}
+.view {
+  background-color: transparent;
+  border-width: 0px;
+}
